@@ -20,7 +20,7 @@ duration:
 
 # Max severity: will be displayed when issue is resolved, in the past events section
 # Max_severity: ok | disrupted | down | monitoring | maintenance
-max_severity: down
+max_severity: 
 
 # Current severity: used for current issue display
 # current_severity: ok | disrupted | down | monitoring | maintenance
