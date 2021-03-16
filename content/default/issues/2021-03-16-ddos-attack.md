@@ -32,6 +32,7 @@ resolved_on:
 # Affected components, must use exact names defined in site config
 affected:
   - Website
+  - Helpdesk
 
 # If set and the status is in_progress, this feed will be embedded
 # in the event display. Leave empty for no Twitter feed.
